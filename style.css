@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgba(237,242,248,255);
+}
+
+.comillas{
+    right: 12%;
+    position: absolute;
+}
+
+.b-c{
+    background-color: rgba(237,242,248,255);
+}
+
+.bgg{
+    background-color: #733fc8da;
+}
+
+.cl{
+    border: solid rgba(161,122,212,255);
+}
+
+.c-p{
+    color: rgba(235, 235, 235, 0.89);
+}
+
+.c-m    {
+    color: rgba(235, 235, 235, 0.705);
+}
+
+.txt-b{
+    color: #9b9b9d;
+}
+
+.color2{
+    background-color: rgba(73,85,107,255);
+}
+
+.azul{
+    background-color: rgba(25,33,46,255);
+}
+
+.color4{
+    background-color: #fff;
+}
+
+.midium{
+    color: rgba(0, 0, 0, 0.411);
+}
+.jk-color{
+    color: #4b4f58;
+}
+
+.txt-c{
+    color: #aeb3be;
+}
+
+.margink{
+    margin-bottom: 1.8rem;
+}
+
+.marginj{
+    margin-bottom: 1.5rem;
+}
+
+.marginjh{
+    margin-bottom: 1.3rem;
+}
